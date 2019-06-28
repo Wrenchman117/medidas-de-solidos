@@ -1,0 +1,15 @@
+E:\programming projects\vbasic\medidas_de_solidos\medidas_de_solidos\bin\Debug\medidas_de_solidos.exe.config
+E:\programming projects\vbasic\medidas_de_solidos\medidas_de_solidos\bin\Debug\medidas_de_solidos.exe
+E:\programming projects\vbasic\medidas_de_solidos\medidas_de_solidos\bin\Debug\medidas_de_solidos.pdb
+E:\programming projects\vbasic\medidas_de_solidos\medidas_de_solidos\bin\Debug\medidas_de_solidos.xml
+E:\programming projects\vbasic\medidas_de_solidos\medidas_de_solidos\obj\Debug\medidas_de_solidos.vbprojResolveAssemblyReference.cache
+E:\programming projects\vbasic\medidas_de_solidos\medidas_de_solidos\obj\Debug\medidas_de_solidos.Form1.resources
+E:\programming projects\vbasic\medidas_de_solidos\medidas_de_solidos\obj\Debug\medidas_de_solidos.Resources.resources
+E:\programming projects\vbasic\medidas_de_solidos\medidas_de_solidos\obj\Debug\medidas_de_solidos.vbproj.GenerateResource.Cache
+E:\programming projects\vbasic\medidas_de_solidos\medidas_de_solidos\obj\Debug\medidas_de_solidos.exe
+E:\programming projects\vbasic\medidas_de_solidos\medidas_de_solidos\obj\Debug\medidas_de_solidos.xml
+E:\programming projects\vbasic\medidas_de_solidos\medidas_de_solidos\obj\Debug\medidas_de_solidos.pdb
+E:\college stuff\visual comp\medidas_de_solidos\medidas_de_solidos\bin\Debug\medidas_de_solidos.exe.config
+E:\college stuff\visual comp\medidas_de_solidos\medidas_de_solidos\obj\Debug\medidas_de_solidos.exe
+E:\college stuff\visual comp\medidas_de_solidos\medidas_de_solidos\obj\Debug\medidas_de_solidos.xml
+E:\college stuff\visual comp\medidas_de_solidos\medidas_de_solidos\obj\Debug\medidas_de_solidos.pdb
